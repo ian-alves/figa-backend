@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  figa:
+    image: ianalves/figa:1.0.0
+    ports:
+      - 8080:8080
